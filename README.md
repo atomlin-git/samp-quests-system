@@ -11,3 +11,9 @@ mysql_tquery(dbHandle, query, "LOAD_PLAYER_QUESTS", "d", playerid);
 
 
 ###### Видео-демонстрация: https://youtu.be/_Z2X_DIpXIc
+
+
+###### TODO:
+
+- [ ] глобальный рефакторинг;
+- [ ] переписать принцип сохранения;
